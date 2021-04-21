@@ -47,7 +47,7 @@
     tweetnacl "^1.0.3"
     xxhashjs "^0.2.2"
 
-"@polkadot/util@6.2.1":
+"@polkadot/util@6.2.1", "@polkadot/util@^6.2.1":
   version "6.2.1"
   resolved "https://registry.nlark.com/@polkadot/util/download/@polkadot/util-6.2.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40polkadot%2Futil%2Fdownload%2F%40polkadot%2Futil-6.2.1.tgz#67ca7573782263cf6a833ebe2d040e012df7b5ff"
   integrity sha1-Z8p1c3giY89qgz6+LQQOAS33tf8=
